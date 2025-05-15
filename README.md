@@ -1,0 +1,2 @@
+# FileCopyforAzure
+ファイルサーバーからAzure Storage Accountのデータソースコンテナへデータを送信して、データを加工し、別コンテナへとロードするプログラム
